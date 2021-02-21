@@ -18,6 +18,8 @@ yarn start
 
  ### :documentação formik:
   * abra [https://formik.org/docs/api/useFormik](https://formik.org/docs/api/useFormik)
+  * abra [https://formik.org/docs/api/fastfiel](https://formik.org/docs/api/fastfiel)
+ d
  ```bash
 yarn start
  ```
